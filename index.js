@@ -1,5 +1,5 @@
 const student= require("./information");
-const cowSay= require("./node_modules/cowsay");
+const cowSay= require("cowsay");
 
 
 
